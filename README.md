@@ -1,5 +1,10 @@
 # firebase-unity-apple-silicon
 
+For context, please see;
+
+https://github.com/firebase/quickstart-unity/issues/1100
+
+
 ## If you are using .tgz files
 
     Extract .tgz file to a directory
